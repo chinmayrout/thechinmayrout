@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Chinmay 
+I'm Chinmay, a grad student here at Northeastern University. I'm currently working on JavaScript projects.
 <!--
 **thechinmayrout/thechinmayrout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
