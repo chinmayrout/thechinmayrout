@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-I'm Chinmay, a grad student here at Northeastern University. I'm currently working on JavaScript projects.
+I'm Chinmay, a grad student here at Northeastern University.
+- 🔭 I’m currently working on ReactJS and Python.
+- 🌱 I’m currently learning React Native
+- 🤔 I’m looking for help with Coding Interviews.
+- 💬 Ask me about my life in Boston as an International Student.
+- 📫 How to reach me: thechinmayrout@gmail.com, 
 <!--
 **thechinmayrout/thechinmayrout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
